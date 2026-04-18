@@ -1,0 +1,72 @@
+[
+  {
+    "incident_id": "inc_3ab4d144",
+    "application_id": "app002",
+    "incident_type": "deployment",
+    "started_at": "2025-07-19T08:43:00Z",
+    "resolved_at": "2025-07-19T15:34:02.143938Z",
+    "duration_hours": 6.85,
+    "summary": "Incident caused by dependency issue",
+    "linked_failure_id": "fail_3f89e627"
+  },
+  {
+    "incident_id": "inc_48f4fc8d",
+    "application_id": "app002",
+    "incident_type": "deployment",
+    "started_at": "2025-08-16T16:08:00Z",
+    "resolved_at": "2025-08-16T19:54:17.149891Z",
+    "duration_hours": 3.77,
+    "summary": "Incident caused by runtime exception",
+    "linked_failure_id": "fail_2d83092d"
+  },
+  {
+    "incident_id": "inc_ab33e485",
+    "application_id": "app002",
+    "incident_type": "deployment",
+    "started_at": "2025-09-11T08:26:00Z",
+    "resolved_at": "2025-09-11T12:10:44.560121Z",
+    "duration_hours": 3.75,
+    "summary": "Incident caused by runtime exception",
+    "linked_failure_id": "fail_d3275dfc"
+  },
+  {
+    "incident_id": "inc_674dbec3",
+    "application_id": "app003",
+    "incident_type": "deployment",
+    "started_at": "2025-08-06T14:01:00Z",
+    "resolved_at": "2025-08-06T20:44:56.870710Z",
+    "duration_hours": 6.73,
+    "summary": "Incident caused by runtime exception",
+    "linked_failure_id": "fail_d229b031"
+  },
+  {
+    "incident_id": "inc_52646a23",
+    "application_id": "app003",
+    "incident_type": "deployment",
+    "started_at": "2025-07-16T01:40:00Z",
+    "resolved_at": "2025-07-16T09:18:31.024679Z",
+    "duration_hours": 7.64,
+    "summary": "Incident caused by config error",
+    "linked_failure_id": "fail_331a648f"
+  },
+  {
+    "incident_id": "inc_2e60e346",
+    "application_id": "app003",
+    "incident_type": "deployment",
+    "started_at": "2025-09-27T01:22:00Z",
+    "resolved_at": "2025-09-27T05:04:53.804792Z",
+    "duration_hours": 3.71,
+    "summary": "Incident caused by runtime exception",
+    "linked_failure_id": "fail_d7b798ea"
+  },
+  {
+    "incident_id": "inc_eb419107",
+    "application_id": "app003",
+    "incident_type": "deployment",
+    "started_at": "2025-08-03T21:25:00Z",
+    "resolved_at": "2025-08-04T03:28:55.679591Z",
+    "duration_hours": 6.07,
+    "summary": "Incident caused by runtime exception",
+    "linked_failure_id": "fail_839d682c"
+  }
+]

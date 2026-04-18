@@ -1,0 +1,65 @@
+[
+  {
+    "failure_id": "fail_3f89e627",
+    "application_id": "app002",
+    "deployment_id": "df_a29aae73",
+    "failed": true,
+    "rollback": false,
+    "failure_reason": "dependency issue",
+    "detected_at": "2025-07-19T08:43:00Z"
+  },
+  {
+    "failure_id": "fail_2d83092d",
+    "application_id": "app002",
+    "deployment_id": "df_883f7d05",
+    "failed": true,
+    "rollback": false,
+    "failure_reason": "runtime exception",
+    "detected_at": "2025-08-16T16:08:00Z"
+  },
+  {
+    "failure_id": "fail_d3275dfc",
+    "application_id": "app002",
+    "deployment_id": "df_df253d66",
+    "failed": true,
+    "rollback": false,
+    "failure_reason": "runtime exception",
+    "detected_at": "2025-09-11T08:26:00Z"
+  },
+  {
+    "failure_id": "fail_d229b031",
+    "application_id": "app003",
+    "deployment_id": "df_d7800254",
+    "failed": true,
+    "rollback": false,
+    "failure_reason": "runtime exception",
+    "detected_at": "2025-08-06T14:01:00Z"
+  },
+  {
+    "failure_id": "fail_331a648f",
+    "application_id": "app003",
+    "deployment_id": "df_d6b6cdf5",
+    "failed": true,
+    "rollback": true,
+    "failure_reason": "config error",
+    "detected_at": "2025-07-16T01:40:00Z"
+  },
+  {
+    "failure_id": "fail_d7b798ea",
+    "application_id": "app003",
+    "deployment_id": "df_a72a3a42",
+    "failed": true,
+    "rollback": false,
+    "failure_reason": "runtime exception",
+    "detected_at": "2025-09-27T01:22:00Z"
+  },
+  {
+    "failure_id": "fail_839d682c",
+    "application_id": "app003",
+    "deployment_id": "df_f07e8344",
+    "failed": true,
+    "rollback": false,
+    "failure_reason": "runtime exception",
+    "detected_at": "2025-08-03T21:25:00Z"
+  }
+]
