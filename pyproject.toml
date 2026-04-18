@@ -76,7 +76,7 @@ dependencies = [
     "selinux==3.4",
     "sepolicy==3.4",
     "setools==4.4.1",
-    "six==1.15.0",
+    "six==1.17.0",
     "support-info==1.0",
     "systemd-python==235",
     "scipy==1.17.1",
