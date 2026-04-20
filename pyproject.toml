@@ -16,7 +16,6 @@ dependencies = [
     "click==8.1.8",
     "colorama==0.4.4",
     "configobj==5.0.6",
-    "cryptography==36.0.1",
     "certifi==2026.2.25",
     "charset-normalizer==3.4.7",
     "dash==4.1.0",
