@@ -61,8 +61,6 @@ dependencies = [
     "PyYAML==5.4.1",
     "requests==2.33.1",
     "retrying==1.4.2",
-    "ruamel.yaml==0.16.6",
-    "ruamel.yaml.clib==0.1.2",
     "s3transfer==0.16.0",
     "six==1.17.0",
     "systemd-python==235",
