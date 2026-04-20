@@ -58,7 +58,6 @@ dependencies = [
     "python-daemon==2.3.0",
     "python-dateutil==2.8.2",
     "pytz==2022.7.1",
-    "PyYAML==5.4.1",
     "requests==2.33.1",
     "retrying==1.4.2",
     "s3transfer==0.16.0",
