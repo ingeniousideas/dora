@@ -65,7 +65,6 @@ dependencies = [
     "ruamel.yaml.clib==0.1.2",
     "s3transfer==0.16.0",
     "six==1.17.0",
-    "support-info==1.0",
     "systemd-python==235",
     "scipy==1.17.1",
     "six==1.17.0",
