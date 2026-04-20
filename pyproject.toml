@@ -23,7 +23,6 @@ dependencies = [
     "cryptography==36.0.1",
     "certifi==2026.2.25",
     "charset-normalizer==3.4.7",
-    "click==8.3.2",
     "dash==4.1.0",
     "dbus-python==1.2.18",
     "distro==1.5.0",
