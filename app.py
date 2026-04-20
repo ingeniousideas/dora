@@ -75,4 +75,4 @@ def navbar_is_open(opened, navbar):
 server = app.server # Expose Flask server for Gunicorn
 
 if __name__ == "__main__":
-	app.run(debug=True, port=8050)
+	app.run(debug=False, port=8050)
