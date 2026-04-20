@@ -37,7 +37,6 @@ dependencies = [
     "jsonpatch==1.21",
     "jsonpointer==2.0",
     "jsonschema==3.2.0",
-    "libcomps==0.1.20",
     "lockfile==0.12.2",
     "markupsafe==3.0.3",
     "narwhals==2.19.0",
