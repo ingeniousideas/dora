@@ -15,7 +15,6 @@ dependencies = [
     "chardet==4.0.0",
     "chevron==0.13.1",
     "click==8.1.8",
-    "cloud-init==22.2.2",
     "colorama==0.4.4",
     "configobj==5.0.6",
     "cryptography==36.0.1",
